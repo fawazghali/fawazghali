@@ -1,7 +1,3 @@
-### Hi there 👋
-
-
-
 ### 👋 Hi, I'm Fawaz Ghali
 
 I desgin, build and speak about machine learning and real-time stream processing at scale. I'm the Developer Advocate at Hazelcast with a PhD in Computer Science. 
