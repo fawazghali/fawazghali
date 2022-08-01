@@ -5,19 +5,6 @@ I desgin, build and speak about machine learning models and real-time stream pro
 
 
 
-<p align="center">
-
-  <a href="https://github.com/fawazghali?tab=repositories">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawazghali&layout=compact"
-    />
-  </a>
-  
-</p>
-
-
-
 
 
 
