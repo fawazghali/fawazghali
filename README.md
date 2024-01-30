@@ -4,8 +4,11 @@ I desgin, build and speak about real-time stream processing at scale on the #clo
 
 I'm the **Head of Developer Relations** at Hazelcast with a **PhD in Computer Science**. 
 
-I love creating content, delivering it through presentations, demos, talks and raising awareness. I’m passionate about helping developers' communities in getting the most out of their software tools and applications. I share my content on my social media links below. If you want to reach out, you can email me directly at fawaz.ghali@hazelcast.com. I'm passionate about  creating content, delivering it through presentations, demos, talks and raising awareness. 
+With over 22 years of Hands-on experience in data science, applied machine learning, and cloud computing, I am a passionate and visionary leader who drives innovation and excellence in developer relations, data science and applied machine learning initiatives to deliver high-quality products. 
 
+I specialize in developing scalable data pipelines, selecting optimal technologies for storage and processing, and collaborating across teams to integrate innovative solutions. My leadership and managerial skills extend to effectively work with cross-functional teams, ensuring alignment with business objectives.
+
+I hold a PhD in Computer Science and have published over 45 papers on Google Scholar. I'm a renowned public speaking expert with +200 talks and presentations at global events and conferences. Effective communication is my strength, allowing me to convey complex technical concepts to non-technical stakeholders.
 
 
 
