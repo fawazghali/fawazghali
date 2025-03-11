@@ -30,15 +30,6 @@ This GitHub is dedicated to **demos, tutorials, quick starts, guides, and open-s
 
 ---
 
-## **📂 Repositories & Projects**  
-🔹 **[Snowflake AI Demos](#)** – Showcasing how to leverage AI within Snowflake  
-🔹 **[Data Engineering Best Practices](#)** – Tutorials on modern data pipelines  
-🔹 **[Quick Starts & Guides](#)** – Beginner-friendly, step-by-step instructions  
-🔹 **[Community & Event Resources](#)** – Talks, slides, and workshop materials  
-🔹 **[Open Source Contributions](#)** – Libraries, tools, and frameworks I contribute to  
-
----
-
 ## **📅 Community & Events**  
 📢 I am actively involved in **developer meetups, hackathons, and global conferences**. Stay updated on upcoming events and opportunities to connect!  
 
