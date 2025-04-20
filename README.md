@@ -19,7 +19,6 @@ With **20+ years of experience** and a **PhD in Computer Science**, I have:
 This GitHub is dedicated to **demos, tutorials, quick starts, guides, and open-source projects**, as well as fostering **community engagement through events and meetups**.  
 
 📌 **Key Focus Areas:**  
-✅ **Snowflake** – Best practices, integrations, and real-world implementations  
 ✅ **AI & Data Engineering** – Hands-on projects and architecture deep dives  
 ✅ **Open Source Contributions** – Libraries, tools, and frameworks  
 ✅ **Developer Community & Events** – Meetups, workshops & collaborations  
